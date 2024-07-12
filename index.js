@@ -5,4 +5,4 @@ function addingEventListener() {
     console.log("Button clicked!")
   })
   }
-}
+};
